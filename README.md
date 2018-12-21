@@ -1,4 +1,12 @@
 # hello-world
 first time on GitHub ;)
 
-My first goal will be creation of a web-app based on Strava API.
+My goals:
+1. Muscle cars gallery
+2. Guest book
+3.
+...
+...
+...
+4. Burned Matches
+5. Burned Matches on Strava API
